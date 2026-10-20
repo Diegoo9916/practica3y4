@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practica2.3</string>
+    <string name="image_description">Android Illustration</string>
+    <string name="materia"> Movile app Developmnet</string>
+    <string name="nombre">Diego Guadalupe</string>
+    <string name="apellido">Chavez Gamez</string>
+</resources>

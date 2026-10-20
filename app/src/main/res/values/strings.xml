@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">practica2.3</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">barra inferior de la App</string>
+    <string name="image_description">Ilustración de Android</string>
+    <string name="home_fab_text">mensaje del snack bar</string>
+    <string name="materia">Materia: Desarrollo de Aplicaciones Móviles</string>
+    <string name="nombre">Diego Guadalupe</string>
+    <string name="apellido">Chavez Gamez</string>
+
+
+
+</resources>
